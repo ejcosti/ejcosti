@@ -1,8 +1,10 @@
 Hi 👋 My name is Earl Costiniano
 ================================
 <div align="center" style="margin-bottom: 10px;">
-
-I am a Software Developer residing in Dublin, CA. I am a passionate developer with a love for building scalable and efficient systems.  I am currently learning GenAI, PySpark, and Kubernetes.  I have built various bot trading systems for crypto and stocks.  I am currently working on a pipeline to clean data, cache data, and serve requests.
+<p>
+I am a Software Developer residing in Dublin, CA.
+</p>
+I am a passionate developer with a love for building scalable and efficient systems.  I have built various bot trading systems for crypto and stocks.  I am currently working on a pipeline to clean data, cache data, and serve requests.
 
 </div>
 
@@ -116,7 +118,5 @@ A comprehensive data pipeline built with:
 ------------------
 
 <div align="center" style="margin: 30px 0;">
-<ul style="list-style-type: none; margin: 0;">
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/ejcosti"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-</ul>
+<a href="https://www.ko-fi.com/ejcosti"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
 </div>
